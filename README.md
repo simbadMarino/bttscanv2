@@ -3,6 +3,7 @@ Final version of BTT scan
 This repo contains the source files for the former bttscan.xyz site. It contains dlive staking rewards history data from inception until January 14 2021. If anyone is interested in borrowing the historical data only you can find it in the following files:
 
 -Dlive Staking: lineChart_dlive.json
+
 -Dlive Partners Staking: lineChartPartners.json
 
 The python script that was used to scrap the data from dlive website is: web_scrapper_dlive_server.py
