@@ -1,0 +1,98 @@
+{
+    "labels": [
+        "21/06/2020",
+        "22/06/2020",
+        "23/06/2020",
+        "24/06/2020",
+        "25/06/2020",
+        "26/06/2020"
+    ],
+    "datasets": [
+        {
+            "borderDashOffset": 0.0,
+            "borderDash": [],
+            "pointRadius": 4,
+            "label": "Partners APR ",
+            "pointHoverBorderWidth": 2,
+            "pointHoverBorderColor": "rgba(220,220,220,1)",
+            "borderJoinStyle": "miter",
+            "pointBorderColor": "rgba(35,80,192,1)",
+            "pointHoverRadius": 5,
+            "borderColor": "yellow",
+            "pointBorderWidth": 1,
+            "data": [
+                474.56,
+                345.86,
+                340.67,
+                324.52,
+                312.98,
+                421.57
+            ],
+            "pointHoverBackgroundColor": "rgba(35,80,192,1)",
+            "fill": true,
+            "lineTension": 0.1,
+            "backgroundColor": "yellow",
+            "borderCapStyle": "butt",
+            "pointHitRadius": 10,
+            "pointBackgroundColor": "#fff"
+        },
+        {
+            "borderDashOffset": 0.0,
+            "pointBorderWidth": 1,
+            "borderDash": [],
+            "pointRadius": 4,
+            "showLine": true,
+            "label": "BTT Distribution ",
+            "pointHoverBorderWidth": 2,
+            "pointHoverBorderColor": "rgba(20,80,220,1)",
+            "borderJoinStyle": "miter",
+            "pointBorderColor": "rgba(15,80,80,1)",
+            "pointHoverRadius": 5,
+            "borderColor": "black",
+            "data": [
+                3150000,
+                2620000,
+                2860000,
+                3000000,
+                2960000.0,
+                4030000
+            ],
+            "pointHoverBackgroundColor": "rgba(15,80,80,1)",
+            "fill": false,
+            "lineTension": 0.1,
+            "backgroundColor": "rgba(15,80,80,0.4)",
+            "borderCapStyle": "butt",
+            "pointHitRadius": 10,
+            "pointBackgroundColor": "#fff"
+        },
+        {
+            "borderDashOffset": 0.0,
+            "pointBorderWidth": 1,
+            "borderDash": [],
+            "pointRadius": 4,
+            "showLine": true,
+            "label": "BTT Staking",
+            "pointHoverBorderWidth": 2,
+            "pointHoverBorderColor": "rgba(220,220,220,1)",
+            "borderJoinStyle": "miter",
+            "pointBorderColor": "rgba(75,192,192,1)",
+            "pointHoverRadius": 5,
+            "borderColor": "green",
+            "data": [
+                255480000,
+                294260000,
+                328110000,
+                364230000,
+                373010000.0,
+                377260000
+            ],
+            "pointHoverBackgroundColor": "rgba(75,192,192,1)",
+            "fill": true,
+            "lineTension": 0.1,
+            "backgroundColor": "rgba(15,92,50,0.4)",
+            "borderCapStyle": "butt",
+            "pointHitRadius": 10,
+            "pointBackgroundColor": "#fff"
+        }
+    ]
+}

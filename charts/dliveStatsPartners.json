@@ -1,0 +1,46 @@
+{
+    "dliveStats": [
+        {
+            "totaldist": 3150000.0,
+            "dailyreturn": 1.3,
+            "ar": 474.56,
+            "date": "21/06/2020",
+            "totalstaked": 255480000.0
+        },
+        {
+            "totaldist": 2620000.0,
+            "dailyreturn": 0.947,
+            "ar": 345.86,
+            "date": "22/06/2020",
+            "totalstaked": 294260000.0
+        },
+        {
+            "totaldist": 2860000.0,
+            "dailyreturn": 0.933,
+            "ar": 340.67,
+            "date": "23/06/2020",
+            "totalstaked": 328110000.0
+        },
+        {
+            "totaldist": 3000000.0,
+            "dailyreturn": 0.887,
+            "ar": 324.52,
+            "date": "24/06/2020",
+            "totalstaked": 364230000.0
+        },
+        {
+            "totaldist": 2960000.0,
+            "dailyreturn": 0.857,
+            "ar": 312.98,
+            "date": "25/06/2020",
+            "totalstaked": 373010000.0
+        },
+        {
+            "totaldist": 4030000.0,
+            "dailyreturn": 1.15,
+            "ar": 421.57,
+            "date": "26/06/2020",
+            "totalstaked": 377260000.0
+        }
+    ]
+}
